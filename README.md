@@ -2,7 +2,7 @@
 
 A simple console-based trivia game written in Java. This project implements a trivia game that allows the user to answer questions and receive a score based on correct answers.
 
-![TriviaGame](images/ChessGame.png)
+![TriviaGame](images/TriviaGame.png)
 ## Features
 
 - User input for personalizing the gaming experience with their name.
